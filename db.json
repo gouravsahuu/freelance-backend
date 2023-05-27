@@ -1,0 +1,106 @@
+{
+  "freelancers": [
+    {
+      "name": "Gourav Sahu",
+      "profile_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "email": "gsgourav.sahu@gmail.com",
+      "password": "g123",
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node"
+      ],
+      "rate": "199",
+      "isBooked": true,
+      "id": 1
+    },
+    {
+      "name": "Gourav Sahu",
+      "profile_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "email": "gsgourav.sahu@gmail.com",
+      "password": "g123",
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node"
+      ],
+      "rate": "299",
+      "isBooked": true,
+      "id": 2
+    },
+    {
+      "name": "Gourav Sahu",
+      "profile_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "email": "gsgourav.sahu@gmail.com",
+      "password": "g123",
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node"
+      ],
+      "rate": "399",
+      "isBooked": false,
+      "id": 3
+    },
+    {
+      "name": "Gourav Sahu",
+      "profile_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "email": "gsgourav.sahu@gmail.com",
+      "password": "g123",
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node"
+      ],
+      "rate": "499",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "Aman",
+      "profile_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "email": "gsgourav.sahu@gmail.com",
+      "password": "g123",
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node"
+      ],
+      "rate": "599",
+      "isBooked": false,
+      "id": 5
+    },
+    {
+      "name": "Prateek",
+      "profile_picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "email": "gsgourav.sahu@gmail.com",
+      "password": "g123",
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node"
+      ],
+      "rate": "699",
+      "isBooked": false,
+      "id": 6
+    }
+  ]
+}
